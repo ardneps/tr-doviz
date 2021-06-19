@@ -82,6 +82,10 @@ myWallet();
 }
 ```
 
+## Lisans
+
+[MIT](https://github.com/berkayfazlioglu/tr-doviz/blob/master/LICENSE)
+
 ## İletişim
 
 [GitHub - berkayfazlioglu](https://github.com/berkayfazlioglu)
