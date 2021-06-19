@@ -1,7 +1,3 @@
-# Modülün Amacı
-
-> Bu modül, insanların herhangi bir döviz API gereksinimi duymadan basit bir şekilde güncel döviz verilerine kolay bir şekilde ulaşmalarını sağlamak için yapılmıştır.
-
 # Kurulum
 
 - npm install tr-doviz
