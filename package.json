@@ -1,0 +1,29 @@
+{
+  "name": "tr-doviz",
+  "version": "1.0.0",
+  "description": "Küresel döviz piyasalarında en çok işlem gören para birimlerinin Türk Lirası bakımından karşılıklarına kolayca ulaşmanızı sağlayacak bir NPM modülü!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/berkayfazlioglu/tr-doviz.git"
+    },
+    "keywords": [
+      "tr-doviz",
+      "tr-currency",
+      "tr",
+      "türkçe",
+      "turkish",
+      "doviz",
+      "doviz-api",
+      "currency",
+      "currency-api"
+    ],
+  "author": "berkayfazlioglu",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
