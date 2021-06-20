@@ -20,9 +20,9 @@ const currency = require("tr-doviz");
 
 currency().then(veri => {
 
-// kodunuz
+    // kodunuz
 
-console.log(veri);
+    console.log(veri);
 
 });
 ```
@@ -53,12 +53,12 @@ const currency = require("tr-doviz");
 
 async function myWallet() {
 
-const veri = await currency();
+    const veri = await currency();
 
-// kodunuz
-  
-console.log(veri);
-  
+    // kodunuz
+
+    console.log(veri);
+
 };
 
 myWallet();
@@ -88,6 +88,6 @@ myWallet();
 
 ## İletişim
 
-[GitHub - berkayfazlioglu](https://github.com/berkayfazlioglu)
+[GitHub](https://github.com/berkayfazlioglu)
 
-[Discord - Ardneps](https://discord.com/users/398138493240475648)
+[Discord](https://discord.com/users/398138493240475648)
