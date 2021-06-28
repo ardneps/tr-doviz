@@ -8,7 +8,7 @@
   },
     "repository": {
       "type": "git",
-      "url": "https://github.com/berkayfazlioglu/tr-doviz.git"
+      "url": "https://github.com/ardneps/tr-doviz.git"
     },
     "keywords": [
       "tr-doviz",
@@ -21,7 +21,7 @@
       "currency",
       "currency-api"
     ],
-  "author": "berkayfazlioglu",
+  "author": "ardneps",
   "license": "MIT",
   "dependencies": {
     "node-fetch": "^2.6.1"

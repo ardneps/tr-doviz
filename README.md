@@ -1,12 +1,8 @@
 # Kurulum
 
 - npm install tr-doviz
-
-# Projenin Sahibi
-
-- Projenin Sahibi: Berkay - GitHub: https://github.com/berkayfazlioglu
   
-# Modülün Kullanımı
+# Kullanım
 
 > Modülün kullanımı açıklamasında da bahsedildiği üzere oldukça basit, fakat modülün çalışma yapısı asenkron türde olduğu için modülü kullanırken "async-await" veya ".then()" yapılarını kullanmanız gerekiyor.
 
@@ -84,10 +80,4 @@ myWallet();
 
 ## Lisans
 
-[MIT](https://github.com/berkayfazlioglu/tr-doviz/blob/master/LICENSE)
-
-## İletişim
-
-[GitHub](https://github.com/berkayfazlioglu)
-
-[Discord](https://discord.com/users/398138493240475648)
+[MIT](https://github.com/ardneps/tr-doviz/blob/master/LICENSE)
