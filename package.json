@@ -1,6 +1,6 @@
 {
   "name": "tr-doviz",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "Küresel döviz piyasalarında en çok işlem gören para birimlerinin Türk Lirası bakımından karşılıklarına kolayca ulaşmanızı sağlayacak bir NPM modülü!",
   "main": "index.js",
   "scripts": {
